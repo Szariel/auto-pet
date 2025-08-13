@@ -1,0 +1,11 @@
+{
+  "disableAutoUpdate": false,
+  "name": "autopet-feeder",
+  "version": "1.0.0",
+  "author": "Szariel",
+  "options": {
+       "niceName": "AutoPet"
+  },
+  "description": "Auto-Pet Feeder (Patch 31) — feeds under 70% energy",
+  "servers": ["https://raw.githubusercontent.com/Szariel/auto-pet/main/"]
+}
