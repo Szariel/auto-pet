@@ -1,7 +1,7 @@
 {
   "disableAutoUpdate": false,
   "name": "autopet-feeder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Szariel",
   "options": {
        "niceName": "AutoPet"
