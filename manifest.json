@@ -1,1 +1,6 @@
-
+{
+  "files": {
+    "module.json": { "hash": "<SHA256_HIER>", "size": <BYTES_HIER> },
+    "index.js":     { "hash": "<SHA256_HIER>", "size": <BYTES_HIER> }
+  }
+}
