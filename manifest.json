@@ -1,6 +1,12 @@
 {
-  "files": {
-    "module.json": { "hash": "<SHA256_HIER>", "size": <BYTES_HIER> },
-    "index.js":     { "hash": "<SHA256_HIER>", "size": <BYTES_HIER> }
-  }
+    "files":  {
+                  "index.js":  {
+                                   "hash":  "24a8b9be3167607ac2a05c395141e3f099c1f7a2c39148e09678d1c180aa58b8",
+                                   "size":  6421
+                               },
+                  "module.json":  {
+                                      "hash":  "adbdf589bdc70e839e91158f096596c6b5f33b0609b306995e335a2c75e98421",
+                                      "size":  298
+                                  }
+              }
 }
